@@ -4,8 +4,10 @@
 This program allows to store and retrieve a number on the Ethereum Blockchain
 
 This code is based on FreeCodeCamp 32-hours FullStack Javascript and Solidity Course.
-Link to the course: https://www.youtube.com/watch?v=gyMwXuJrbJQ&
-Find deployed contract here: https://rinkeby.etherscan.io/tx/0x4de8b0247620ac24f7b7bbb2c95c3b900007e5a0c46a3ee6a16730dd858ab5a4
+###### Link to the course: 
+https://www.youtube.com/watch?v=gyMwXuJrbJQ&
+###### Find deployed contract here: 
+https://rinkeby.etherscan.io/tx/0x4de8b0247620ac24f7b7bbb2c95c3b900007e5a0c46a3ee6a16730dd858ab5a4
 
 ### Topics
 
